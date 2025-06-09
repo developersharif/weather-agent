@@ -6,7 +6,7 @@ from tools.tool_manager import tool
 @tool(category="weather", description="Get current weather information for any city worldwide")
 async def get_weather(city: str, format: str = "celsius") -> str:
     nominatim_headers = {
-        'User-Agent': 'WeatherAgent/1.0 (weather-agent-project-python; contact@example.com)',
+        'User-Agent': 'WeatherAgent/1.0 (weather-agent-project-python; contact@realbrain.cc)',
         'Accept-Language': 'en,en-US;q=0.9',
     }
     
