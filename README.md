@@ -60,15 +60,13 @@ ollama serve
 
 ### 2️⃣ Clone & Setup Python Environment
 ```bash
-# Clone the repository
 git clone https://github.com/developersharif/weather-agent.git
 cd weather-agent
 
 # Create virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate 
 
-# Install dependencies
 pip install -r requirements.txt
 ```
 
