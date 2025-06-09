@@ -1,0 +1,5 @@
+httpx
+autogen-agentchat
+autogen-ext[openai]
+pytz
+asyncio
