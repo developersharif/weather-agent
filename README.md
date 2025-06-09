@@ -2,7 +2,7 @@
 
 An intelligent, extensible weather and utility assistant powered by **Microsoft AutoGen** and **Ollama**. This agent provides real-time weather information, time operations, calculations, and various utilities through an intuitive chat interface.
 
-## 🚀 Features
+##  Features
 
 ### 🌍 Weather Services
 - **Real-time weather data** for any global location
