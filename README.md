@@ -48,13 +48,10 @@ An intelligent, extensible weather and utility assistant powered by **Microsoft 
 
 ### 1️⃣ Install Ollama
 ```bash
-# Install Ollama (Linux/macOS)
 curl -fsSL https://ollama.ai/install.sh | sh
 
-# Pull the Qwen3 model
 ollama pull qwen3:0.6b
 
-# Start Ollama service
 ollama serve
 ```
 
