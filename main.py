@@ -1,7 +1,7 @@
 import asyncio
 from tools.weather_api import get_weather
 from agent import weather_agent, agent_team
-from autogen_agentchat.ui import Console  # Add this import
+from autogen_agentchat.ui import Console 
 
 async def main():
     print("Weather chatbot. Type 'exit' to quit.")
